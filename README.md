@@ -1,1 +1,1 @@
-Neuronal network using raw python and numpy.
+Deep neuronal network using raw python and numpy.
